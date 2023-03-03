@@ -4,3 +4,4 @@
 
 hdfs dfs -rm -r input output
 hdfs dfs -put input
+
